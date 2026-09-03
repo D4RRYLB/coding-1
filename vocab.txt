@@ -3,3 +3,8 @@ repository- A digital space for storing flies and folders, specifically code.
 code environment- A digital space for building programs using code.
 Computing terminal- A digital machine that runs code programs.
 Python- A programming language used yo build a varitey of software programs such as apps, games, and ai tools.
+The Complexity - The interconnected working parts of a system that are generally difficult to understand and maintain.
+Abstraction - The practice of hiding complex systems to make it simpler and easier to manage.
+GPU - Graphical Processing Unit. The component of the computer that handles the videos and images on your computer.
+CPU - Central Processing Unit. The brain of the computer, handles all of the complex systems and processes that the computer performs.  
+RAM- Random Access Memory.  The short term memory of your computer that holds and runs data when you open apps and  games. The instance of that memory is gone when the computer is turned off.
