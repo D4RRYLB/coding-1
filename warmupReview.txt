@@ -1,0 +1,5 @@
+Floats, Boolean, String, and Interger.
+A code repository is A
+A computer keyboard is a input.
+A variable is a things you could stores.
+one variable that we learned in class is the snake case

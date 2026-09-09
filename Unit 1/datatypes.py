@@ -2,9 +2,11 @@
     #characters can be letters, numbers, and symbols.
     #you can use both single and double quotation
     #marks for strings
+    
 "Darryl Brown"
 123 main street
 this cost 100 dollars
+
 #the hashtag is a marker that makes anything written
 #behind it invisible to the computer
 Interger- datatypes that are just whole numbers, or numbers
