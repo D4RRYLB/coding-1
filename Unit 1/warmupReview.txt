@@ -1,5 +1,5 @@
 Floats, Boolean, String, and Interger.
-A code repository is A
+A code repository is something to store files and folders
 A computer keyboard is a input.
-A variable is a things you could stores.
+A variable is a conitainer to store data
 one variable that we learned in class is the snake case
