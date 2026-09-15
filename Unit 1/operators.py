@@ -6,7 +6,7 @@
 # Operator
 Name = "Darryl"
 Grade = 10
-School = true
+School = True
 
 # Arithmetic operator- used on Numerical
 # data types to perform calculations.
