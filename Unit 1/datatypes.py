@@ -4,7 +4,7 @@
     #marks for strings
     
 "Darryl Brown"
-123 main street
+123 Main street
 this cost 100 dollars
 
 #the hashtag is a marker that makes anything written
