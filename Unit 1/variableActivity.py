@@ -25,9 +25,9 @@ priceofpepsi= 3.50
 priceofcoke= 3.50
 priceoffanta= 3
 
-#camal case- when creating variable names with multiple words,
+#camel case- when creating variable names with multiple words,
 #every new word begins with a capital letter
-#the reason why its called camal is because every new word
+#the reason why its called camel is because every new word
 #represents a hump
 
 #Snake case- when creating a variable using snake case

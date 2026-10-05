@@ -37,7 +37,7 @@ print (2.0 == 2) #same as (true)
 # this is to check and filter for values that are not
 #the same
 print (200 != 100)# true- these are not the same
-Print (300 != 300) #False- These are the same
+print (300 != 300) #False- These are the same
 
 
 
@@ -55,5 +55,5 @@ print (3 > 1 or 100 < 50)
 
 # NOT- The "opposite day" operator, it will reverse the
 # result of the logical operators
-Print (not(3 > 1 and 100 < 50))
+print (not(3 > 1 and 100 < 50))
 # this would come out to be false
