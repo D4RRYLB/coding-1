@@ -1,0 +1,13 @@
+Question 1: In my own words Documentation means to store documents and
+code comments to see ways to use it.
+
+Question 2: Three reasons why having good documentation would
+be beneficial to building the game is because people would need
+things like the high-level documentations when people can design
+the principles
+
+Qusetion 3: External is intended for developers or other people
+outside the organizations for people who need to understand and
+use a product's code.
+
+Question 4:
