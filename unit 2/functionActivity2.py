@@ -3,8 +3,9 @@ def compareNumbers():
     NumB = int(input())
     print(numA < NumB)
 
-CompareNumber():
+CompareNumber()
 
 def honorRoll():
+    
     Grade1 = int (input())
     Absenses1 = int (input())

@@ -1,10 +1,10 @@
-variable- A conitainer that stores data. you can
+#variable- A conitainer that stores data. you can
 #name your conitainer almost anything you want, so long
 #as it is decriptive
 
-Name- Darryl Brown
-yearsofexp- 10
-graduate- true
+#Name- Darryl Brown
+#yearsofexp- 10
+#graduate- true
 
 #when we want to create a variable,we make up a word,
 #use the equal sign and then assign it a data type
