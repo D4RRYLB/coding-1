@@ -18,16 +18,50 @@ elif bill_amonut == 20:
 else:
     print("sorry amonut  ")
 
-
-
-
-
     def college():
         grade= int(input("please type in your grade"))
         if grade > 90:
-            templeUApp()
+         templeUApp()
     ccpApp()
 
-def ccpApp():
-    print(" congrats please complete the community college app with the following code")
-    print ("")               
+    # using the calaulator functions from the calculator.py file,
+    # create a main calulator function that uses if/else logic to
+    # allow the user to select different artimetic opertations and
+    #  then perform those opertations by running their respective function.
+
+    #example: an input where if the user enter 1, it will run the addition function.
+    # 1= addition()
+    # 2= subtaction()
+    # 3= multiplication()
+    # 4= division()
+
+
+
+def calculate_add():
+    print("program has started: please type in 2 numbers to add")
+    Num1 = int(input())
+    num2 = int(input())
+    print( num1 + num2)
+    print("program has ended")
+
+def calculate_subtract():
+    print ("program has started: please type in 2 numbers to subtract")
+    num1 = int(input())
+    num2 = int(input())
+    print( num1 - num2)
+    print("program has ended") 
+
+def calculate_multiply():
+    print("program has started: please type in 2 numbers to multiple")
+    num1 = int(input())
+    num2 = int(input())
+    print(num1 * num2)
+    print("program has ended")
+
+
+
+
+age is 7 or younger == (6):
+print("the cost would be 56$ ")
+
+age is between
