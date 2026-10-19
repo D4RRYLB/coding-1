@@ -61,7 +61,7 @@ def calculate_multiply():
 
 
 
-age is 7 or younger == (6):
+age is 7 or younger == (6)
 print("the cost would be 56$ ")
 
-age is between
+age is between 8/20
