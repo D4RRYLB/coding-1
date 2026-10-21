@@ -1,9 +1,9 @@
 def compareNumbers():
     NumA =int (input())
     NumB = int(input())
-    print(numA < NumB)
+    print("numA < NumB")
 
-CompareNumber()
+"CompareNumber"()
 
 def honorRoll():
     

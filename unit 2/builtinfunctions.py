@@ -50,4 +50,4 @@ print(int(price))
 
 #num2 = input("type in a number: ")
 #input always returns a string
-print(9 + float(num2))
+print("9 + float(num2")

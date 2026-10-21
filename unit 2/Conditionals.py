@@ -21,8 +21,8 @@ else:
     def college():
         grade= int(input("please type in your grade"))
         if grade > 90:
-         templeUApp()
-    ccpApp()
+         "templeUApp"()
+    "ccpApp"()
 
     # using the calaulator functions from the calculator.py file,
     # create a main calulator function that uses if/else logic to
@@ -41,7 +41,7 @@ def calculate_add():
     print("program has started: please type in 2 numbers to add")
     Num1 = int(input())
     num2 = int(input())
-    print( num1 + num2)
+    print("num1 + num2")
     print("program has ended")
 
 def calculate_subtract():
@@ -61,7 +61,7 @@ def calculate_multiply():
 
 
 
-age is 7 or younger == (6)
+"age is 7 or younger" == (6)
 print("the cost would be 56$ ")
 
-age is between 8/20
+"age is between 8/20"

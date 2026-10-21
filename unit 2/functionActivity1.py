@@ -1,6 +1,6 @@
 # 1.
 Val = input("please type in a number")
-print(int(val)> 85)
+print("int(val)> 85")
 
 # notes: need to use input to take in a number
 # comparing the number we type in to 85
@@ -11,8 +11,8 @@ print(int(val)> 85)
 # take the input
 # add to 360
 # should print out 500
-num2= input(true or dare)
-print(int(numb2) + 360) == 500
+num2= input("true or dare")
+print("int(numb2) + 360") == 500
 
 val = input("please a string")
 print(val == "Boys latin")
