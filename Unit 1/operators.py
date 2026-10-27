@@ -26,7 +26,7 @@ print(10>1) #greater than operator
 print(10<2) #less than operator
 
 # 2 equal signs compare if something is the same
-print(Darryl == Darryl)# same as (false)
+print("Darryl == Darryl")# same as (false)
 
 # 2 equal signs compare if something is the SAME
 print ("book") == ("book") #same as (false)

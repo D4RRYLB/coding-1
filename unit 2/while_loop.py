@@ -1,4 +1,4 @@
-# Loop - a loop is a construct (special function) that repeats itself
+ # Loop - a loop is a construct (special function) that repeats itself
 # In programming, a loop allows to repeats code instructions
 
 # There are two types of loops: for loop and while loop
@@ -41,5 +41,5 @@ def passwordreset():
     print("please log in using your password")
     userPwattempt = input()
 
-    while userPwattempt != correctPw:
+    while userPwattempt != "correctPw":
         print("sorry incorrect")

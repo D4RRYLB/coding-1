@@ -26,7 +26,7 @@ Tax = 0.07
 print(shoes * Tax)
 
 GPA = 86
-Recommendation = true
+Recommendation = True + True
 
 print(GPA > 85 and Recommendation == True)
 
