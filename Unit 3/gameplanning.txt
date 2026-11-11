@@ -1,0 +1,13 @@
+1. My game would be a bike vs police car. You could be on the police or bike team.
+If you were to join the police team you would have three minutes to catch the biker.
+Same for biker team they would have three minutes to escape. If the biker gets caught
+then the police team wins but the biker escapes then the biker wins.
+
+2. The controls for the biker would be space to jump, N to willy and time goes shorter
+for how long the willy is hit. The police would have boost = B. Also the biker would have
+a gps button = L to tell the biker where the police cars is.
+
+3. Two game objects that will be in the game is builds and parked cars
+Some builds are traps for the bikers to do for the police. The cars are Also
+Traps that the bikers could do to the police but if police knows the traps then
+they can use it to counter the biker.
